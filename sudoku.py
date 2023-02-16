@@ -1,1 +1,1 @@
-print('MySudoku')
+print('MySudoku by Suro')
